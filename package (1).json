@@ -1,0 +1,8 @@
+{
+  "name": "pulo-rush",
+  "version": "1.0.0",
+  "description": "Pulo Rush online server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
